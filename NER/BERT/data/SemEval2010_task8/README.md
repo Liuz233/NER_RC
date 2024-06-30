@@ -1,6 +1,6 @@
 ## 目录说明
-├─.idea
-│  └─inspectionProfiles
+├─.idea\\
+│  └─inspectionProfiles\\
 ├─data  ---- 数据集路径
 │  └─SemEval2010_task8  ---- SemEval2010_task8数据集
 │      ├─given  ---- 竞赛所给数据集以及其衍生的文件
